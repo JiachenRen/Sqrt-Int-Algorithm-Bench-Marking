@@ -1,7 +1,9 @@
 import java.util.ArrayList;
-import java.util.Map;
 import java.util.Scanner;
 
+/*
+Bench marking of 6 different sqrt algorithms by Jiachen Ren.
+ */
 public class Main {
 
     public static void main(String[] args) {
